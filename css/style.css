@@ -39,6 +39,7 @@
     margin: 10px;
     position: relative;
     cursor: pointer;
+    -webkit-transition: all 700ms ease-in;
   }
 
   .panel.active {
